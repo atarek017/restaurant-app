@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "967825868492",
+    "firebase_url": "https://fir-messaging-3d14d.firebaseio.com",
+    "project_id": "fir-messaging-3d14d",
+    "storage_bucket": "fir-messaging-3d14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967825868492:android:80d473e12a0625a7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967825868492-u6gh7el6vp481hplsp5tfllghi2a79ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_notifications",
+            "certificate_hash": "4e709b74107bbf0032fbc077ad12da9cd6eea825"
+          }
+        },
+        {
+          "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GTTu7ysnY1tMgD0gXDDMW0idRuBt3jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967825868492:android:122ea546e9c24523",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967825868492-2n6112ke5b727p0r6p8i9r9p0dt3ik8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_realtime_database",
+            "certificate_hash": "4e709b74107bbf0032fbc077ad12da9cd6eea825"
+          }
+        },
+        {
+          "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GTTu7ysnY1tMgD0gXDDMW0idRuBt3jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967825868492:android:84d8878aea3246b5",
+        "android_client_info": {
+          "package_name": "com.example.resturent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967825868492-38sda41e1849c4kbhuc7vd2fi0tp7bpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resturent_app",
+            "certificate_hash": "4e709b74107bbf0032fbc077ad12da9cd6eea825"
+          }
+        },
+        {
+          "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GTTu7ysnY1tMgD0gXDDMW0idRuBt3jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967825868492-tuomjnu3p88nc0bp965lc0mulec3tq1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
