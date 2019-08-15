@@ -1,6 +1,6 @@
 # resturent_app
 
-# project featues
+## project featues
 cloud firestore   
 firebase storage   
 provider   
