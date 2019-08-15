@@ -2,8 +2,8 @@
 
 ## project featues
 
-<ln>cloud firestore </ln>
-firebase storage
-provider
-image_picker to use camera and galary
+cloud firestore.
+firebase storage.
+provider.
+image_picker to use camera and galary.
 
