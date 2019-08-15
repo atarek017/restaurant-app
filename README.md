@@ -1,6 +1,6 @@
 # resturent_app
 
-## project featues
+# project featues
 
 </n>cloud firestore</n>
 </n>firebase storage</n>
